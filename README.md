@@ -24,6 +24,7 @@ Just install and run [draw circle app](dist)
 ### Command
 
 ```shell
+pip install -r requirements.txt
 python main.py
 ```
 
